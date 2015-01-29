@@ -1,4 +1,4 @@
-package br.com.juliocnsouza.githubfeedsharingjavaserver;
+package br.com.juliocnsouza.githubfeedsharing.javaserver;
 
 
 /**
