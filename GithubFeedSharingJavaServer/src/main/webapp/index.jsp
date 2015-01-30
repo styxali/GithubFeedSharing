@@ -5,7 +5,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Github Feed Sharing</title>
+        <title>Github Feed Sharing by @juliocnsouza</title>
     </head>
     <body>
         <h1>Github Feed Sharing</h1>
